@@ -1,23 +1,25 @@
 # PRAKTIKUMUAS
-|*Nama|NIM|Kelas|Matkul*|
-|----|---|-----|------|
-|Anita|312310244|TI.23.A3|Basis Data|
-
+|*Nama|NIM|Kelas|
+|----|---|-----|
+|Anita|312310244|TI.23.A3|
 
 1. Menampilkan Nama Karyawan yang Berada di Departemen yang Dipimpin
 oleh Manajer dengan Nama 'Rika'
-
-![WhatsApp Image 2024-07-01 at 11 23 20_a98eab54](https://github.com/ahju-hub/PRAKTIKUMUAS/assets/174291421/715f5afd-cc7d-4fb6-819f-15c7f17c287b)
+![Gambar WhatsApp 2024-07-02 pukul 14 08 32_15f253b4](https://github.com/bangtan1997/PRAKTIKUMUAS/assets/168517568/fe7de1e6-afe5-424d-ae3b-60001a40fed1)
 
 2. Menampilkan Nama Proyek yang dikerjakan oleh Karyawan dari
 Departemen 'RnD'
-![WhatsApp Image 2024-07-01 at 11 23 29_24d00fa8](https://github.com/ahju-hub/PRAKTIKUMUAS/assets/174291421/ed9a6b9d-2bc7-4c56-93d8-8ff086f36564)
+![Gambar WhatsApp 2024-07-02 pukul 14 08 33_e48bc447](https://github.com/bangtan1997/PRAKTIKUMUAS/assets/168517568/4b867c88-5afe-42f6-ba53-513a6598b852)
 
 3. Menampilkan Nama Karyawan yang Terlibat dalam Lebih dari Satu Proyek
-   ![WhatsApp Image 2024-07-01 at 11 23 38_44c9c69f](https://github.com/ahju-hub/PRAKTIKUMUAS/assets/174291421/986b1358-658a-4796-80ee-70e594cab602)
-
+![Gambar WhatsApp 2024-07-02 pukul 14 08 33_db701b68](https://github.com/bangtan1997/PRAKTIKUMUAS/assets/168517568/0af3bfdf-2958-4717-9002-7b338dc0d22f)
 
 4. Menampilkan Nama Proyek yang melibatkan Karyawan terbanyak.
+![Gambar WhatsApp 2024-07-02 pukul 14 08 33_be05e16c](https://github.com/bangtan1997/PRAKTIKUMUAS/assets/168517568/2054fd4b-e22f-4392-9dcf-4148f61e6257)
+
+5. Menampilkan Nama Proyek yang Diikuti oleh Karyawan dengan Gaji Pokok
+Kurang dari 3 Juta
+![Gambar WhatsApp 2024-07-02 pukul 14 08 33_b9560e38](https://github.com/bangtan1997/PRAKTIKUMUAS/assets/168517568/a2efdebb-7864-41cd-9c5f-7609d43f54b3)
    
 ![WhatsApp Image 2024-07-01 at 11 23 44_2648c5bc](https://github.com/ahju-hub/PRAKTIKUMUAS/assets/174291421/fc97660b-67bb-4706-86c2-a10e09cdd92d)
 
